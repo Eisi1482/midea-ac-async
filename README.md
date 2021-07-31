@@ -3,6 +3,8 @@ A project for controlling midea like air conditioners with a micro controller li
 
 For building the project [Visual Studio Code](https://code.visualstudio.com) with [PlatformIO](https://platformio.org) is used. 
 
+Running successfully on an esp32 Development kit. 
+
 This project was inspired and made possible by the two following github repos.
 * [dudanov/iot-uni-dongle](https://github.com/dudanov/iot-uni-dongle)
 * [Links2004/arduinoMideaAC](https://github.com/Links2004/arduinoMideaAC)
